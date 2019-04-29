@@ -1,3 +1,5 @@
-Dylan's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# Dylan's Notes
+
+
+### Summary
+This repository contains all of the notes taken by [Dylan](https://github.com/wyc6990906/lighthouse-web-notes.git) for the lighthouse labs web development bootcamp.
